@@ -1,4 +1,4 @@
-# SimpleTodo
+# SimpleTodo ##
 #### Because the world needed another todo app.
 
 This is a basic Node application with an Express/MySQL backend. Features include standard todo list functionality: add, toggle, edit, and delete todos, all stored in a MySQL database.
